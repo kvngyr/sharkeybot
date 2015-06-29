@@ -1,0 +1,15 @@
+{
+  "name": "sharkeybot",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Sharkey the friendly twitterbot",
+  "author": "Kevin Gayer",
+  "license": "Private",
+  "main": "app.js",
+  "dependencies": {
+    "twit": "*"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
